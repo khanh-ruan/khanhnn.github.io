@@ -1,17 +1,17 @@
 # khanhnn.github.io
 
-##Projects
-###Project 1
+## Projects
+### Project 1
 - Description
 - Links
 
-###Project 1
+### Project 2
 - Description
 - Links
 
-#Education
+# Education
 - University
 
-#Experience
+# Experience
 - Workplace 1
 - Workplace 
