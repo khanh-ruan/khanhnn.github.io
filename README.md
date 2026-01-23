@@ -1,5 +1,4 @@
-<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="40" src= "docs/assets/526716868580458718.jpg" />
+
 
 
 <h1 align="center">哈喽! I'm Nguyen Nam Khanh </h1>
