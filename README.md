@@ -2,7 +2,7 @@
 <img align="right" width="40" src= "docs/assets/526716868580458718.jpg" />
 
 
-<h2 align="center">Hi 👋, I'm Nguyen Nam Khanh </h2>
+<h1 align="center">哈喽! I'm Nguyen Nam Khanh </h1>
 <p align="center">
   <h3 align="center">A result-driven, detail-oriented individual from Vietnam 🇻🇳 </h3>
 </p>
@@ -21,8 +21,8 @@
   <a href="https://www.facebook.com/khanh.ruan0801/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  <a href="https://www.instagram.com/cutiepieew._/" alt="Instagram" target="_blank" >
+    <img src="https://img.icons8.com/?size=50&id=Xy10Jcu1L2Su&format=png&color=000000"/>
   </a>
   <a href="mailto:nguyennamkhanh080106@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
@@ -31,18 +31,7 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+
 </p>
 
 ## Activities:
