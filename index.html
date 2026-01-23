@@ -1,1 +1,38 @@
+<!DOCTYPE html><html lang="en"><head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Mai Uyen Portfolio</title>
+
+ <!-- Font & Icons -->
+ <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+ <link href="css/all.min.css" rel="stylesheet">
+
+ <style>
+ :root {
+	 /* pink-themed palette (base: #f9e8ec) */
+	 --cyan-1:#FFF1F4;
+	 --cyan-2:#F9E8EC; /* base */
+	 --cyan-3:#F3C6D0;
+	 --accent:#E85A86; /* primary pink accent */
+	 --accent-dark:#8E2840; /* stronger pink for headings/text */
+	 --text-main:#123;
+	 --text-sub:#345;
+	 --bg:#F9E8EC; /* page background set to requested base */
+	 --white:#FFF;
+	 --radius:22px;
+	 --shadow:0 4px 14px rgba(0,0,0,0.08);
+ }
+
+ *{box-sizing:border-box;font-family:"Inter",sans-serif;margin:0;padding:0}
+ body{background:var(--bg);color:var(--text-main);-webkit-font-smoothing:antialiased;}
+ nav{width:100%;background:rgba(255,255,255,0.68);backdrop-filter:blur(10px);position:fixed;top:0;z-index:500;box-shadow:var(--shadow)}
+ nav .inner{display:flex;justify-content:space-between;align-items:center;padding:14px 24px}
+ nav ul{list-style:none;display:flex;gap:20px}
+ nav a{text-decoration:none;color:#123;font-weight:500}
+ nav a.active{color:var(--accent)}
+ .brand{display:flex;align-items:center;gap:12px}
+ .brand img{width:44px;height:44px;border-radius:50%}
+ .lang-switch{display:flex;gap:8px;padding:6px;background:var(--cyan-1);border-radius:20px}
+ .lang-switch span{padding:4px 10px;cursor:pointer;border-radius:14px}
+ .lang-switch span.active{background:var(--accent);color:#FFF}
 
