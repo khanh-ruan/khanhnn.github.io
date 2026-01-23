@@ -6,7 +6,7 @@
   <h3 align="center">A result-driven, detail-oriented individual from Vietnam 🇻🇳 </h3>
 </p>
 
-> International Business Economics Student @ [Foreign Trade University](https://ftu.edu.vn/).
+> `International Business & Economics Student` @ [Foreign Trade University](https://ftu.edu.vn/).
 
 <br />
 
